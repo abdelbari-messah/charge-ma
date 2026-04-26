@@ -1,0 +1,1572 @@
+[
+  {
+    "id": "7282D9AA-7DD1-49DD-95D4-5D8A3DC3D627",
+    "name": "FastVolt Afriquia Ouad Amlil",
+    "operator": "Fastvolt",
+    "latitude": 34.19679966412164,
+    "longitude": -4.277819263049878,
+    "power": 50,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "FFD1A9AE-2387-453F-89C0-AB2B4D708858",
+    "name": "FastVolt Afriquia Berkane",
+    "operator": "Fastvolt",
+    "latitude": 35.035202670861366,
+    "longitude": -2.3440503504353956,
+    "power": 50,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "D7D33FB6-8F80-4A3E-857F-535F8AEB831B",
+    "name": "FastVolt Afriquia Al Hoceima",
+    "operator": "Fastvolt",
+    "latitude": 35.15791783480513,
+    "longitude": -3.978218263158169,
+    "power": 50,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "DA608950-7AAB-4FDF-98CC-B3662536234A",
+    "name": "kilowatt - Aswak Assalam",
+    "operator": "Kilowatt.ma",
+    "latitude": 33.9478580979864,
+    "longitude": -6.870084225444202,
+    "power": 180,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "E43A5435-0AC0-496C-80E6-ED34D9E7E064",
+    "name": "The View AGADIR 100KW",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.41610185337558,
+    "longitude": -9.60317588123894,
+    "power": 100,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "C9D15837-A9A3-4D67-9F39-AEDBC8219BC0",
+    "name": "FastVolt Afriquia Mnasra 2 vers Sud 100 kW",
+    "operator": "Fastvolt",
+    "latitude": 34.64487436444523,
+    "longitude": -6.407604749167604,
+    "power": 100,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "298557C8-0602-418A-8B53-EE7EC04F2E53",
+    "name": "Tanger Med Port Authority",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.8700340117215,
+    "longitude": -5.520144902866718,
+    "power": 50,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "B0637EC5-C7B8-4F44-B51F-7F30862674EB",
+    "name": "Kilowatt.ma - Ikea Tétouane",
+    "operator": "Kilowatt.ma",
+    "latitude": 35.651709994512075,
+    "longitude": -5.309646661540455,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1BE24664-B47F-4380-90C3-58BEAB852239",
+    "name": "FastVolt Afriquia FastVolt Ksar Sghir Tanger Med",
+    "operator": "Fastvolt",
+    "latitude": 35.836367578194,
+    "longitude": -5.556692289207149,
+    "power": 100,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "FFE3B83D-B60A-4DC3-9E61-E810970F24E7",
+    "name": "TotalEnergies Chichaoua vers Nord",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.486760098309006,
+    "longitude": -8.655130419044212,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "406A5274-4569-46C0-8E95-3E05469D7CC0",
+    "name": "Total Energies Sfiha Ajdir El Hoceïma",
+    "operator": "Unknown",
+    "latitude": 35.19655120247573,
+    "longitude": -3.8938258384971505,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "08A6639D-FAB3-446C-9E43-86E30AB7BA56",
+    "name": "Ecolodge la Palmeraie",
+    "operator": "Kilowatt.ma",
+    "latitude": 30.904194606431858,
+    "longitude": -6.898011287222289,
+    "power": 2,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "D8AF6721-FDC3-48F7-BEDF-3EFE544003DC",
+    "name": "TotalEnergies Relais Mazagan",
+    "operator": "Kilowatt.ma",
+    "latitude": 33.03068236174934,
+    "longitude": -8.534787606262967,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "59BD423A-248B-4CA2-BC16-B465236ED4D2",
+    "name": "Kilowatt.ma - Carrefour market Label' Galery Meknes",
+    "operator": "Kilowatt.ma",
+    "latitude": 33.89213381391872,
+    "longitude": -5.54085981386288,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "E4A2E44D-D3D2-496C-BE8B-8B8ECF0A2F6A",
+    "name": "Commune de Fès",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.034567702758835,
+    "longitude": -5.015748371080804,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "3B754D0F-DF25-43CC-B775-5D80BEB68A2C",
+    "name": "Central Commercial Borj Fes",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.04584386341807,
+    "longitude": -4.994938494645908,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1EC1CD67-30FE-4219-B668-C4CE0F304484",
+    "name": "Kilowatt.ma - Marina Saidia Resorts",
+    "operator": "Kilowatt.ma",
+    "latitude": 35.11105194300305,
+    "longitude": -2.2955384326953663,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "3845A35E-1730-4D77-A607-46B6F14EC9E3",
+    "name": "Kilowatt.ma - Town Hall Saidia",
+    "operator": "Kilowatt.ma",
+    "latitude": 35.087879127869556,
+    "longitude": -2.238822078158705,
+    "power": 11,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1F70320E-EE4A-412A-92D2-AAC959EE2144",
+    "name": "FastVolt Afriquia Lbir Jdid",
+    "operator": "Fastvolt",
+    "latitude": 33.35256543456005,
+    "longitude": -7.979708703865072,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "4AF51326-984A-4C80-A90C-206111F3674D",
+    "name": "FastVolt Marjane California",
+    "operator": "Fastvolt",
+    "latitude": 33.54472684630785,
+    "longitude": -7.640402673101562,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "E5E24AE0-74B8-40FD-9B25-B46EE2575CDD",
+    "name": "FastVolt Afriquia Oasis",
+    "operator": "Fastvolt",
+    "latitude": 33.55884471492895,
+    "longitude": -7.644935604142347,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "B59AA672-994C-42CE-B8B0-14C53293A468",
+    "name": "FastVolt Parking Marina Shopping",
+    "operator": "Fastvolt",
+    "latitude": 33.607378814617334,
+    "longitude": -7.62165220537895,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "FB313609-585E-460C-B822-B4B7AC5BD2C6",
+    "name": "FastVolt Afriquia Golf Tanger",
+    "operator": "Fastvolt",
+    "latitude": 35.767986334734005,
+    "longitude": -5.859296398585798,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "E9976FA1-9FC7-475C-9AAB-D8D5820E19AA",
+    "name": "FastVolt Marjane Tanger ",
+    "operator": "Fastvolt",
+    "latitude": 35.74572447617655,
+    "longitude": -5.846452652323819,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "126BC60D-C68F-4DDD-9100-5CC0863CD631",
+    "name": "FastVolt Afriquia Lissasfa Exit",
+    "operator": "Fastvolt",
+    "latitude": 33.50545607277587,
+    "longitude": -7.678140141810445,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "CD76C532-B0F2-4E8C-81D1-5F7189FD3A64",
+    "name": "Afriquia Panoramique FastVolt Parking sous-sol",
+    "operator": "Fastvolt",
+    "latitude": 33.550173190602976,
+    "longitude": -7.615703514213465,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "74AC3613-59F7-4D0D-9D4D-5E38FFB99B73",
+    "name": "FastVolt Place Des Nations Unies Tanger, Somagec",
+    "operator": "Fastvolt",
+    "latitude": 35.77756897275276,
+    "longitude": -5.8034842413730985,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "E4D08A54-17EE-4893-8674-7CD370AB0F05",
+    "name": "kilowatt.ma- Selouane Winxo Groupe Aliman",
+    "operator": "Kilowatt.ma",
+    "latitude": 35.0844617579922,
+    "longitude": -2.9354218565820247,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "FB3767AB-F293-4718-A91E-23A44B0041C3",
+    "name": "FastVolt Afriquia Hamza Fes",
+    "operator": "Fastvolt",
+    "latitude": 33.99648209704715,
+    "longitude": -4.99169034087663,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "7BD42DBD-0206-455A-B5A2-0FB6E973C036",
+    "name": "FastVolt Afriquia Al Boustane",
+    "operator": "Fastvolt",
+    "latitude": 33.77736662504526,
+    "longitude": -7.2333686380421796,
+    "power": 360,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "23A47F60-48E0-4080-87A0-A6757A177041",
+    "name": "FastVolt Socozed Safi",
+    "operator": "Fastvolt",
+    "latitude": 32.29652998714381,
+    "longitude": -9.190622987789084,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "A95D2DDE-71B0-4618-B8F8-55120B6D9DA0",
+    "name": "Winxo Imintanoute",
+    "operator": "Unknown",
+    "latitude": 31.025543677385244,
+    "longitude": -9.024822192977808,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "DEFCBD8D-0EA4-4A1A-9F4B-799A0ECE7838",
+    "name": "FastVolt Afriquia ADM Lmintanout",
+    "operator": "Fastvolt",
+    "latitude": 31.025270565397037,
+    "longitude": -9.023107837351745,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "B6007285-3EAB-424C-BC46-AA04AFE269EB",
+    "name": "FastVolt Kia Maroc Succursale Marrakech",
+    "operator": "Fastvolt",
+    "latitude": 31.699396406020725,
+    "longitude": -7.984480677020883,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "6EB9248A-E5E3-4922-9D7C-CD0E11A36EB0",
+    "name": "FastVolt Afriquia Bab Al Kelaa Marrakech",
+    "operator": "Fastvolt",
+    "latitude": 31.645658458346176,
+    "longitude": -7.9768452806727055,
+    "power": 100,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "2AD9FF08-F712-4FF5-B8B2-E81B822F375C",
+    "name": "FastVolt Afriquia PLM Beni Mellal",
+    "operator": "Fastvolt",
+    "latitude": 32.32340179548831,
+    "longitude": -6.3807631664261635,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "337EE3F1-D7BD-4867-B9BB-50D9D8BB4229",
+    "name": "FastVolt Afriquia ADM Msoun",
+    "operator": "Fastvolt",
+    "latitude": 34.31004544000969,
+    "longitude": -3.7476293236334186,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "308B8A33-FFB8-4E53-8D34-9855EE9061AC",
+    "name": "FastVolt Afriquia ADM Laayoune",
+    "operator": "Fastvolt",
+    "latitude": 34.61491229369473,
+    "longitude": -2.43947444329433,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "AC5391C5-F949-4230-954E-BFB962326845",
+    "name": "FastVolt Afriquia Marinasmir",
+    "operator": "FastNed",
+    "latitude": 35.736168177464876,
+    "longitude": -5.342509866759201,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "45BC5519-F381-4D9A-ABAD-E07DE30FBB8C",
+    "name": "FastVolt Afriquia Oujda National Gaz",
+    "operator": "Fastvolt",
+    "latitude": 34.72739728417561,
+    "longitude": -1.9239218809887007,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "5BC8DE20-978B-4D7C-B346-7408846160AC",
+    "name": "FastVolt Afriquia Technopole Oujda",
+    "operator": "Fastvolt",
+    "latitude": 34.77200809725856,
+    "longitude": -1.9419257202828248,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "3775948C-BDFE-46C8-9102-56CF4CF930DA",
+    "name": "FASVOLT - Afriquia Tanger Zone Franche",
+    "operator": "Fastvolt",
+    "latitude": 35.716104924586205,
+    "longitude": -5.904593329906675,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "3C7A2501-E6E6-4F5A-82B7-5E0B4800ACEA",
+    "name": "FastVolt Afriquia Mnar",
+    "operator": "Fastvolt",
+    "latitude": 35.802414123521515,
+    "longitude": -5.7435593006919134,
+    "power": 100,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "425AD8AB-964A-4A48-BFE5-70B1713057D9",
+    "name": "FastVolt  Afriquia Narjiss ADM",
+    "operator": "Fastvolt",
+    "latitude": 34.230542023479956,
+    "longitude": -6.5853110305563405,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "5B9229F4-2D61-40BE-98F4-E7AB761F5E73",
+    "name": "FastVolt Afriquia Fnideq",
+    "operator": "Fastvolt",
+    "latitude": 35.83338713296395,
+    "longitude": -5.355127456784203,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "99048754-4BEA-4A8E-BCF5-79B47B9BFBD7",
+    "name": "FastVolt Afriquia Kenitra AFZ",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.30466543360957,
+    "longitude": -6.366853043625838,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "387A4192-90CA-4CB0-9579-1E3849631DCF",
+    "name": "FastVolt Afriquia Fnideq",
+    "operator": "Fastvolt",
+    "latitude": 35.83336034830373,
+    "longitude": -5.355123530049241,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "E4F42628-4855-41E0-B2DE-CA910F0181E9",
+    "name": "FastVolt - Afriquia MC Village",
+    "operator": "Fastvolt",
+    "latitude": 34.28923523452717,
+    "longitude": -6.506758748742641,
+    "power": 100,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "57A3A7C4-6011-493B-9811-D975BBB9C5D1",
+    "name": "FastVolt Fairmont La Marina Rabat-Salé",
+    "operator": "Fastvolt",
+    "latitude": 34.03252864224564,
+    "longitude": -6.82823809895055,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "4C877752-36E0-42F2-A876-619747D27416",
+    "name": "Tesla Supercharger Agadir",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 30.39190540000162,
+    "longitude": -9.59712500000353,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "C69B85F2-3966-456C-B4E6-E60D436E9C85",
+    "name": "Tesla Supercharger Marrakech",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 31.622062400000146,
+    "longitude": -8.001945000000205,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "EC9370FC-CCD1-467E-B835-B55258C8C375",
+    "name": "Tesla Supercharger Casablanca",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 33.5863418,
+    "longitude": -7.6389559,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "29455777-2B1A-46E4-A0F5-D38920C94290",
+    "name": "Tesla Supercharger Fes",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 33.9969709,
+    "longitude": -4.9700243,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "4DF313E7-F598-4B3C-AAD0-EAC015E87D4E",
+    "name": "Tesla Supercharger Rabat",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 33.99121710000357,
+    "longitude": -6.836833900001466,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "D03518FB-76FA-487C-AA98-45877446031A",
+    "name": "Tesla Supercharger Tangier Tanger",
+    "operator": "Tesla (Tesla-only charging)",
+    "latitude": 35.6667493,
+    "longitude": -5.9658079,
+    "power": 150,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "6691952E-84B1-4460-908F-5E871C0555D0",
+    "name": "[Kilowatt.ma] Carrefour Salé",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.057936043717646,
+    "longitude": -6.801969287262978,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "27FCE391-E9B9-467E-8B1E-F072CF55F316",
+    "name": "Bornes de recharge - Al Akhawayn University - EVC.WATTSC.COM",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.53602822209932,
+    "longitude": -5.104187565798725,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "0B1B958E-299F-452A-B142-C518F17F117A",
+    "name": "Kilowatt.ma Hotel Noon",
+    "operator": "Kilowatt.ma",
+    "latitude": 27.148599887566675,
+    "longitude": -13.196035917546965,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1A56A4E7-13EA-4E92-9CB3-1FA0826A41BA",
+    "name": "Kilowatt.ma Hotel Boarding Dakhla",
+    "operator": "(Unknown Operator)",
+    "latitude": 23.705284243093402,
+    "longitude": -15.94322880548657,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "C864426B-EAFB-4391-8B21-EF2524C686CD",
+    "name": "Kilowatt.ma Hotel Barbas",
+    "operator": "Kilowatt.ma",
+    "latitude": 22.054645624290856,
+    "longitude": -16.74717707827881,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "9B5CBAED-22A3-4C03-BBD5-2ADF1EE474E5",
+    "name": "Kilowatt.ma Station SP Azemmour",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.35908778822191,
+    "longitude": -8.2807259974455,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "D567679F-C5AE-435F-9905-788755C408DA",
+    "name": "Afriquia Tetouan shore",
+    "operator": "Fastvolt",
+    "latitude": 35.563973,
+    "longitude": -5.486762,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "BDE10655-88CD-48D4-B06A-03A22A56131A",
+    "name": "Afriquia Rabat Al Melia",
+    "operator": "Fastvolt",
+    "latitude": 33.968891240863144,
+    "longitude": -6.864245339339504,
+    "power": 100,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "28B089B3-7C9F-4641-A534-247B11703964",
+    "name": "Michlifen Ifrane",
+    "operator": "Fastvolt",
+    "latitude": 33.535027,
+    "longitude": -5.107841,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CHAdeMO, CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "92CFFAE5-8809-48B8-A0A9-1DB1C0B38038",
+    "name": "Fairmont Taghazout",
+    "operator": "Fastvolt",
+    "latitude": 30.52268,
+    "longitude": -9.690229,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "D3E8A602-1830-42AF-A53C-35E1F2D9FCBC",
+    "name": "Afriquia Marjane Hay Riad",
+    "operator": "Fastvolt",
+    "latitude": 33.953727,
+    "longitude": -6.851473,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "083899BD-5618-4AAB-B2EF-D204194DC206",
+    "name": "Station Afriquia Taddart",
+    "operator": "Fastvolt",
+    "latitude": 33.5194303,
+    "longitude": -7.6161737,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "FF47DFB0-9F7A-4433-B5B5-7F975EABC6D5",
+    "name": "Station Afriquia Nouasseur",
+    "operator": "Fastvolt",
+    "latitude": 33.3797,
+    "longitude": -7.566667,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "21C0CFAE-05CB-40CA-9D3D-EE8047E6A74C",
+    "name": "Kilowatt.ma Complexe Les Palmiers",
+    "operator": "Kilowatt.ma",
+    "latitude": 31.943479683052047,
+    "longitude": -4.462780323783107,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "089A7FD3-82A0-43A5-B129-9F1A23C1AB92",
+    "name": "Station Afriquia Sidi Bou OTHMAN",
+    "operator": "Fastvolt",
+    "latitude": 31.91813912674118,
+    "longitude": -8.023951461590741,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "09E494AB-AA1E-4A3A-95D8-5A3E122978CE",
+    "name": "Les Terasses Gourmandes - Kilowatt.ma",
+    "operator": "Kilowatt.ma",
+    "latitude": 33.487143168829235,
+    "longitude": -7.633673878508148,
+    "power": 180,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "F26FBBE8-961E-4209-BC10-E24ED632A3F4",
+    "name": "TotalEnergies Amskroud",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.45481566777262,
+    "longitude": -9.360077166174278,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "170B58D2-BFB7-4339-A298-A38E3E2F298E",
+    "name": "Label Galerie Safi ",
+    "operator": "Kilowatt.ma",
+    "latitude": 32.292743189620325,
+    "longitude": -9.234626064688428,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "04F34CB0-DD7C-4FC1-86CD-376CEAE2C42E",
+    "name": "McDonald's de la Corniche",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.6016565265202,
+    "longitude": -7.661221906286983,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "2FF752B3-F6A5-4D61-B14F-E083D4F71BD7",
+    "name": "Afriquia Taddart",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.51940636681522,
+    "longitude": -7.6161803667910135,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "6FFA942B-2953-44BC-A4E5-FC76F593975B",
+    "name": "Al Mazar Mall",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.592960428346714,
+    "longitude": -7.985902571885049,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "0E192D19-A200-458F-A048-AEBE8B3664F5",
+    "name": "Kilowatt.ma - Kasbah Sirocco",
+    "operator": "Kilowatt.ma",
+    "latitude": 30.319702856684103,
+    "longitude": -5.82760437983552,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "8B9559A3-B16F-4302-A323-6CC4B143E3AF",
+    "name": "Berkane Ville",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.92820103935651,
+    "longitude": -2.3279448208283497,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "A30B7E29-329B-46B8-8F4F-8B6F87F4ED9C",
+    "name": "Morocco Mall",
+    "operator": "Fastvolt",
+    "latitude": 33.57686256903399,
+    "longitude": -7.705703551104307,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "74094BCB-3562-44E7-979A-6355C58528BC",
+    "name": "Afriquia Tafraouti Ain Sebaa",
+    "operator": "Fastvolt",
+    "latitude": 33.60437587477604,
+    "longitude": -7.547670898936076,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "489E8489-4B8A-4C0F-BCE7-725FFC2E26CC",
+    "name": "Afriquia Centre 65 Marrakech ",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.62822398005359,
+    "longitude": -8.037395224873308,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "583AECF3-2BDB-45EC-B601-503765E2C43A",
+    "name": "Afriquia Essaouira",
+    "operator": "Fastvolt",
+    "latitude": 31.49605940028789,
+    "longitude": -9.755090383015954,
+    "power": 50,
+    "connectorType": "Type 2 (Socket Only), CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "AE0EFCBC-1C80-4FEE-B36B-82069AF11711",
+    "name": "Afriquia Miami Fès",
+    "operator": "Fastvolt",
+    "latitude": 33.98237252285293,
+    "longitude": -5.028836746132583,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "92A0DDAB-ECDE-4DEF-B762-EF4536DCDED5",
+    "name": "Afriquia Boulevard des F.A.R شارع الجيش الملكي",
+    "operator": "Fastvolt",
+    "latitude": 33.89781438006548,
+    "longitude": -5.534755506098918,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "F8D9A70F-45CA-42EC-9A69-1046B6AE7FAD",
+    "name": "Afriquia Zenata Ikea",
+    "operator": "Fastvolt",
+    "latitude": 33.62788451457321,
+    "longitude": -7.461671331288358,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "D9DEFDB4-2B1E-4855-B585-9614720F72F7",
+    "name": "Afriquia Meknes Riad El Menzeh",
+    "operator": "Fastvolt",
+    "latitude": 33.840254576480035,
+    "longitude": -5.521765658444565,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "D91901AB-7891-484B-B470-CAC3ED6A2060",
+    "name": "Aeropuerto de Melilla",
+    "operator": "(Business Owner at Location)",
+    "latitude": 35.2772830258251,
+    "longitude": -2.958150686614431,
+    "power": 11,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "652EDE1B-965F-4D8D-93B8-BAA13883CA69",
+    "name": "Winxo Oujda",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.739487500646106,
+    "longitude": -1.9290893314769164,
+    "power": 30,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "531D4863-DEAC-4C82-9FB7-34924C9997E8",
+    "name": "Apia Restaurant",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.83466374795742,
+    "longitude": -5.543029131000708,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "0E4B79AD-024F-48B4-998D-5771F73ED5B2",
+    "name": "Socco Alto",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.781527905977924,
+    "longitude": -5.8408312515125544,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "F9047921-A9BC-46D2-85EE-D41DB01909E7",
+    "name": "Hotel Senator",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.715185011390744,
+    "longitude": -5.904376028563092,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "430F47D9-D6CF-4DB8-9976-DB7F650D285E",
+    "name": "TotalEnergies Riviera",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.56827270783131,
+    "longitude": -7.644602467375307,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "B9F3D2A7-DB03-4E4A-ADFD-D4E9B6E9229E",
+    "name": "Hotel Chams ",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.5809545579352,
+    "longitude": -5.33629625254207,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "465186A1-DDF0-4777-8CC7-B45BB6942616",
+    "name": "Winxo - Motel budget Safari - Café Restaurant",
+    "operator": "Kilowatt.ma",
+    "latitude": 30.939102949406077,
+    "longitude": -6.977384713331958,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "89831517-C19F-40F8-8111-7A0FD6B5BEAF",
+    "name": "Mall Ibn Batouta",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.77760684421172,
+    "longitude": -5.801783986233318,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "94263A1B-EB61-4E34-97A5-E5E3E7ED9782",
+    "name": "TotalEnergies Relais Mazagan",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.03165967959413,
+    "longitude": -8.534901203175878,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "88451DC6-F487-47E4-AF02-3E56C56E4DFC",
+    "name": "Commune de Fès جماعة فاس",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.0344907565552,
+    "longitude": -5.015782632007586,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "2AC716A0-4F8D-401F-AEC3-46903CD41953",
+    "name": "Avenue Allal Ben Abdallah",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.03594510674549,
+    "longitude": -5.0040273474089645,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "834F08F5-E3F7-413F-9899-4D5C38E11E04",
+    "name": "Sela Gallery (Ex Label Gallery)",
+    "operator": "Kilowatt.ma",
+    "latitude": 33.97397554773538,
+    "longitude": -6.8295453765072125,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "C0230E6B-8CEE-4960-A51A-0368309B4BA9",
+    "name": "Afriquia Agadir",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.40637750615646,
+    "longitude": -9.534297270726825,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "97F2F64A-345C-47D9-A192-90CEC705FD8E",
+    "name": "Afriquia El Jadida centre ville",
+    "operator": "Fastvolt",
+    "latitude": 33.244421543770855,
+    "longitude": -8.490150205522696,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "548599C1-4021-4528-AB15-75398E8DBA17",
+    "name": "Afriquia TZF",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.71616580301435,
+    "longitude": -5.90510619272095,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "B43E8414-B0A3-4E5C-9CA7-35D992064285",
+    "name": "Afriquia aire de service Moulay Bouselham",
+    "operator": "Fastvolt",
+    "latitude": 34.87701808693406,
+    "longitude": -6.214479206752571,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "71484C56-9EEC-43A2-8D63-0F6389274540",
+    "name": "Afriquia Mnasra1 ADM",
+    "operator": "Fastvolt",
+    "latitude": 34.64352183690433,
+    "longitude": -6.406365164418389,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "6E138BFA-9DC8-40E3-9993-90F7284EC3BE",
+    "name": "Afriquia Hay Hassani",
+    "operator": "Fastvolt",
+    "latitude": 33.577140035079495,
+    "longitude": -7.6745213772180705,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "3E025B3B-712B-48B3-94E3-A7771ACDC27F",
+    "name": "Afriquia Bouskoura 100kW",
+    "operator": "Fastvolt",
+    "latitude": 33.484037911732656,
+    "longitude": -7.625510785882852,
+    "power": 100,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "56701076-6C13-47A7-B912-3C439B10903A",
+    "name": "Afriquia Rocade Casa",
+    "operator": "Fastvolt",
+    "latitude": 33.5112215270464,
+    "longitude": -7.610329181114139,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "57C5ACB6-46F5-413E-AAE2-5672071AF014",
+    "name": "Fairmont Royal Palm Marrakech",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.5142038530728,
+    "longitude": -8.051207215994054,
+    "power": 11,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "CC07F5BA-B734-4F02-9CBD-CA3865AF6F01",
+    "name": "Shell Amskroud",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.59849188688402,
+    "longitude": -9.346055389210278,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "55138EFB-55BF-4819-A695-7FEB296594E2",
+    "name": "Hotel Hyatt Regency Taghazout",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.532560659933523,
+    "longitude": -9.693817300336605,
+    "power": 11,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "20D545EB-AB33-4EE1-9FF7-80D37754F016",
+    "name": "Paradis Plage Hotel Surf Yoga And Spa",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.58453031270936,
+    "longitude": -9.75652421029099,
+    "power": 11,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "B670E81C-A139-4EA6-B67D-7AE6350BDA42",
+    "name": "Afriquia Nakhil Palmeraie",
+    "operator": "Fastvolt",
+    "latitude": 31.679039434656815,
+    "longitude": -7.997787565768704,
+    "power": 50,
+    "connectorType": "CCS (Type 2), CHAdeMO, Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1F0D8B6F-84CE-4D08-9C2A-72642629C012",
+    "name": "Hotel Tanger Med",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.68275117666789,
+    "longitude": -5.691093124532927,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "11E5D748-B3F6-42FA-9C82-0F3C20B086DE",
+    "name": "Hotel Tanger Med",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.68275117666789,
+    "longitude": -5.691093124532927,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "7DC6E4FF-8F9B-4152-BDC9-2F3FB85FE257",
+    "name": "Hotel Tanger Med",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.68275117666789,
+    "longitude": -5.691093124532927,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "8D93CC6C-4B95-4066-A882-BF4A8C4513FD",
+    "name": "AFRIQUIA OUJDA",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.72721282292267,
+    "longitude": -1.9241157378340858,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "outOfOrder"
+  },
+  {
+    "id": "1DD7193C-DF06-420A-A0A4-66823B834A55",
+    "name": "Hotel Velsatis",
+    "operator": "(Unknown Operator)",
+    "latitude": 32.32842414716134,
+    "longitude": -6.372661941341221,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "62809042-5649-4148-BC2F-7ACB9A48EA75",
+    "name": "RR403",
+    "operator": "Kilowatt.ma",
+    "latitude": 32.9094472793179,
+    "longitude": -6.90487202522695,
+    "power": 22,
+    "connectorType": "CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "376B617A-9E5B-47C1-A632-C04E6626D0F2",
+    "name": "Shell Benguerir - Direction Casablanca",
+    "operator": "(Unknown Operator)",
+    "latitude": 32.27204024662586,
+    "longitude": -7.968426109275015,
+    "power": 7,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "CF52E997-DF86-4951-B540-B68D7C3FB56A",
+    "name": "TotalEnergies Atlantis Larache",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.170874518323316,
+    "longitude": -6.1220614289923105,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "D44374F3-ADAB-4B3F-9A2F-481D74E68B44",
+    "name": "Movenpick Mansour Marrakech",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.625642260561108,
+    "longitude": -7.998061743338212,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "0B6567FD-9F6E-4B5D-8BDC-34373A6F562C",
+    "name": "Parking Place Rachidi",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.59003233563905,
+    "longitude": -7.6207127109704516,
+    "power": 50,
+    "connectorType": "Type 2 (Socket Only), CCS (Type 2), CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "2B06E8B5-4857-4483-B505-9A08D938624F",
+    "name": "Station Winxo Imintanoute",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.025242606493578,
+    "longitude": -9.025250418206952,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "40F09D21-98D3-42E2-BBF5-A2156EAF6A38",
+    "name": "Agora Park Taza ",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.26681595849169,
+    "longitude": -3.9559552821605166,
+    "power": 60,
+    "connectorType": "Type 2 (Tethered Connector) , Type 2 (Socket Only), CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "BF18C186-1235-441A-B342-9726F03AB346",
+    "name": "Lixus Resort Hotel",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.23527735486286,
+    "longitude": -6.134216875675179,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "69C6D4E9-389A-4BE2-B4F8-5467A1AEEF37",
+    "name": "Aghbalou Aqorar - Privée",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.893371126127676,
+    "longitude": -4.77882932020691,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "CA5C20D4-0A9E-453E-8D72-67117A024B8F",
+    "name": "Hotel Sahrai",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.04352935433077,
+    "longitude": -4.992168370771083,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) , IEC 60309 5-pin",
+    "status": "available"
+  },
+  {
+    "id": "2979FCAA-53CB-4416-89BF-139BC6F0334C",
+    "name": "Université EuroMed fes",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.04415206864026,
+    "longitude": -5.063058579732683,
+    "power": 7,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "5F71BBFB-3640-4AAF-ACB6-58F460A5A01E",
+    "name": "Total Relais Taourirt",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.41146358485467,
+    "longitude": -3.165072709153719,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "3780EBAA-CE30-46F7-8204-2CF6FC17E2F4",
+    "name": "Derichebourg Azrou",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.43480238686189,
+    "longitude": -5.2312800426475405,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "284DEB92-05C1-4409-A5A5-D927CD063451",
+    "name": "TotalEnergies Relais Khemisset Oulmes",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.817100513179355,
+    "longitude": -6.104967560103205,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "E139C5C7-AE5D-48EC-8F68-E49AA30236C2",
+    "name": "Shell aire de repos Bouznika",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.77974354476247,
+    "longitude": -7.232862487282546,
+    "power": 120,
+    "connectorType": "Type 2 (Socket Only), CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "C69E7103-8DDC-4922-8CB7-0EBAD4A9E352",
+    "name": "Afriquia Berrechid",
+    "operator": "Fastvolt",
+    "latitude": 33.222513025130766,
+    "longitude": -7.573211308131704,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CHAdeMO, CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "BFFA9EE9-A06C-40B4-A9EC-587FC711FEC6",
+    "name": "Winxo Oum Rabii",
+    "operator": "(Unknown Operator)",
+    "latitude": 32.63086595533602,
+    "longitude": -7.793542221590656,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "29B5EA9C-0A20-40F9-BDB8-8A67C3DE2F17",
+    "name": "TotalEnergies Palmeraie",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.755927,
+    "longitude": -7.978244,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "1C14E64D-88DB-4D3F-AD48-6DC017AC0C5F",
+    "name": "TotalEnergies - Djebilet",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.64576350304388,
+    "longitude": -8.019454870036952,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "396D165D-2C47-4465-81A6-17BB38468EF4",
+    "name": "TotalEnergies relais Agadir",
+    "operator": "(Unknown Operator)",
+    "latitude": 30.428063541145065,
+    "longitude": -9.563441304111166,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "1CA4245E-350A-4F71-8E81-76D452C94B2D",
+    "name": "Station Afriquia Imntanoute",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.024738803931484,
+    "longitude": -9.023279408278995,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "9F8BF496-7441-46FF-9FA9-0516EBAD9796",
+    "name": "TotalEnergies Chichaoua vers Sud",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.48712924974295,
+    "longitude": -8.655318885692623,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "F7B35752-6CFD-4C36-A0CE-4684707FA6F5",
+    "name": "Afriquia Targa",
+    "operator": "(Unknown Operator)",
+    "latitude": 31.72032930361256,
+    "longitude": -8.234452070104908,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) , CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "8CA5F4E6-AC41-4F7B-AD30-95CDCA7CFB53",
+    "name": "Shell Benguerir",
+    "operator": "(Unknown Operator)",
+    "latitude": 32.273645082767075,
+    "longitude": -7.969400481868661,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "0FBA7FCD-25BB-4AD2-8AA8-55C34B7AC4BA",
+    "name": "Afriquia Settat ADM ",
+    "operator": "Fastvolt",
+    "latitude": 32.89780881840379,
+    "longitude": -7.667803065570865,
+    "power": 50,
+    "connectorType": "CHAdeMO, CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "76457B8E-8A29-4A8D-B02F-AC4D8629FFF5",
+    "name": "TotalEnergies Chaouia Berrechid",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.22324848752584,
+    "longitude": -7.575073713470601,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "52A2CD17-7B09-4EE1-8DC8-E53834A9CFA7",
+    "name": "Total Mediouna",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.454104046051256,
+    "longitude": -7.521103533192559,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "11B3FEC1-F0FC-497C-B012-F96049215DE0",
+    "name": "TotalEnergies Tanger Med Melloussa",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.6895778581206,
+    "longitude": -5.678568341800428,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "A7449134-5991-4E79-BB1D-F6F033A31C6A",
+    "name": "Shell Mellousa",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.688090883706764,
+    "longitude": -5.678317880371424,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "A8DC964A-BE55-43A8-B44E-53CE73ECB04F",
+    "name": "TotalEnergies Relais de Tanger",
+    "operator": "(Unknown Operator)",
+    "latitude": 35.73894406154156,
+    "longitude": -5.851943940249157,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "C9A8EC83-8954-4169-9CA5-AB2DC8DE4304",
+    "name": "Afriquia Asilah",
+    "operator": "Fastvolt",
+    "latitude": 35.470388840080275,
+    "longitude": -6.004475592077824,
+    "power": 50,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) , CHAdeMO",
+    "status": "available"
+  },
+  {
+    "id": "6B5338A5-32FE-4566-BAAC-071327F4A24D",
+    "name": "Afriquia Larache",
+    "operator": "Fastvolt",
+    "latitude": 35.1689076622052,
+    "longitude": -6.121520933255965,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "D2290D59-9337-4C75-822A-45AB244C97EB",
+    "name": "TotalEnergies Al Baida Casablanca ",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.50987472139953,
+    "longitude": -7.607964099997389,
+    "power": 180,
+    "connectorType": "CCS (Type 2), Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "CA6651F6-73C4-41E4-B0A3-B66DA944C4AB",
+    "name": "Iresen - institut de recherche en energie solaire et energies nouvelles ",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.97677904968897,
+    "longitude": -6.848816447828767,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "A2DE8AD1-0B5A-45A1-B148-79BE7D2C7AEE",
+    "name": "TotalEnergies Tamesna",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.021226012215195,
+    "longitude": -6.841549522342575,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "9CFFDAC0-9385-4C2F-B97F-1D7F76A92F47",
+    "name": "Marjane HayRiad",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.95379194644839,
+    "longitude": -6.851644428751911,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  },
+  {
+    "id": "17754C19-6396-4E84-8EAD-F7B335F48BF5",
+    "name": "WINXO Moulay Bousselham",
+    "operator": "Kilowatt.ma",
+    "latitude": 34.875590331912235,
+    "longitude": -6.213646240464641,
+    "power": 22,
+    "connectorType": "Type 2 (Socket Only)",
+    "status": "available"
+  },
+  {
+    "id": "16B1AF07-3703-4E0D-B9AF-C142C6A2E7B3",
+    "name": "TotalEnergies Relais Bouregreg Total",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.905478627519045,
+    "longitude": -6.777812839557328,
+    "power": 50,
+    "connectorType": "Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "BF729AB0-59E0-4777-B750-D4CEE0A90896",
+    "name": "Shell Kenitra Safsaf",
+    "operator": "(Unknown Operator)",
+    "latitude": 34.2285824468105,
+    "longitude": -6.58100938553252,
+    "power": 50,
+    "connectorType": "CHAdeMO, Type 2 (Tethered Connector) , CCS (Type 2)",
+    "status": "available"
+  },
+  {
+    "id": "2D10BEE7-61EE-43B0-B9FA-2D232B3149A2",
+    "name": "Vivo Energy Shell Exit",
+    "operator": "(Unknown Operator)",
+    "latitude": 33.506873118737616,
+    "longitude": -7.629828697158814,
+    "power": 22,
+    "connectorType": "Type 2 (Tethered Connector) ",
+    "status": "available"
+  }
+]

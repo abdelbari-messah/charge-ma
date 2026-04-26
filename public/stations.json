@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "title": "Shell Recharge - Casablanca Downtown",
+    "addressTitle": "Downtown Casablanca",
+    "address": "Avenue Hassan II, Casablanca",
+    "latitude": 33.5731,
+    "longitude": -7.5898,
+    "operatorTitle": "Shell Recharge",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      },
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 200,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "IRESEN Charging Station - Rabat",
+    "addressTitle": "Rabat City Center",
+    "address": "Place de l'Unité Africaine, Rabat",
+    "latitude": 34.0209,
+    "longitude": -6.8416,
+    "operatorTitle": "IRESEN",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "TotalEnergies EV Station - Marrakech",
+    "addressTitle": "Marrakech Medina",
+    "address": "Avenue Mohammed V, Marrakech",
+    "latitude": 31.6295,
+    "longitude": -7.9811,
+    "operatorTitle": "TotalEnergies",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 16,
+        "voltage": 240,
+        "power": 3.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tangier Port EV Charging",
+    "addressTitle": "Tangier Port",
+    "address": "Port of Tangier, Tangier",
+    "latitude": 35.7595,
+    "longitude": -5.834,
+    "operatorTitle": "Tangier City Authority",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 150,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fes Shopping Center Charging",
+    "addressTitle": "Fes New Town",
+    "address": "Shopping Center, Fes",
+    "latitude": 34.0181,
+    "longitude": -5.0078,
+    "operatorTitle": "Local Operator",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Casablanca Airport Terminal 1",
+    "addressTitle": "Airport",
+    "address": "Casablanca Anfa Airport",
+    "latitude": 33.3675,
+    "longitude": -7.5898,
+    "operatorTitle": "Airport Authority",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      },
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 200,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Agadir Coastal Road Charging",
+    "addressTitle": "Agadir Corniche",
+    "address": "Corniche Road, Agadir",
+    "latitude": 30.4203,
+    "longitude": -9.5981,
+    "operatorTitle": "Shell Recharge",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Meknes City Center Charging",
+    "addressTitle": "Meknes",
+    "address": "Imperial City Center, Meknes",
+    "latitude": 33.8869,
+    "longitude": -5.5491,
+    "operatorTitle": "Local Operator",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 16,
+        "voltage": 240,
+        "power": 3.7
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Casablanca to Marrakech Route - Midway",
+    "addressTitle": "Highway A3",
+    "address": "Rest Area, Route Casablanca-Marrakech",
+    "latitude": 32.5903,
+    "longitude": -7.6667,
+    "operatorTitle": "TotalEnergies",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 200,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Rabat to Tangier Highway Station",
+    "addressTitle": "Highway A1",
+    "address": "Service Station, Route Rabat-Tangier",
+    "latitude": 35.0,
+    "longitude": -6.0,
+    "operatorTitle": "IRESEN",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 150,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tanger Med Port Charging",
+    "addressTitle": "Tangier Med Port",
+    "address": "Tanger Med Port Complex",
+    "latitude": 35.9425,
+    "longitude": -5.4783,
+    "operatorTitle": "Port Authority",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "CCS",
+          "fasterChargeDevice": true
+        },
+        "level": {
+          "title": "DC Fast Charging"
+        },
+        "amps": 200,
+        "voltage": 400,
+        "power": 50
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rabat Embassy District Charging",
+    "addressTitle": "Rabat",
+    "address": "Embassy District, Rabat",
+    "latitude": 34.01,
+    "longitude": -6.83,
+    "operatorTitle": "Shell Recharge",
+    "usageType": {
+      "title": "Public"
+    },
+    "statusType": {
+      "title": "Operational"
+    },
+    "connections": [
+      {
+        "connectionType": {
+          "title": "Type 2 (IEC 62196-2)",
+          "fasterChargeDevice": false
+        },
+        "level": {
+          "title": "Level 2: 240V"
+        },
+        "amps": 32,
+        "voltage": 240,
+        "power": 7.4
+      }
+    ]
+  }
+]
